@@ -1,6 +1,8 @@
 ### Hi there <img src="https://github.com/Parthiban6408/example/blob/main/wave.gif?raw=true" width="30px">, I am Parthiban
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCHyrRt1a6_zYKyvUAKGWpLg?label=Welcome%20to%20My%20YouTube%20Channel.">
 
+![Parthiban GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthiban6408&show_icons=true&theme=vue)
+
 
 <!--
 **Parthiban6408/Parthiban6408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
